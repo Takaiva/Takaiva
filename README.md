@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Takaiva/Takaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+An English tutor in the daylight, a greatly enthusiastic front-end developer at night.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Open to work, remote or Moscow.
+- 👨‍💻 You can check my projects [here](https://github.com/Takaiva?tab=repositories).
+- 🌱 Currently learning TypeScript.
+- ⚡ Fun fact: Shared tea session is the best way to get acquainted with me.
+
+📫 How to reach me:
+Email: sdobnikove@mail.ru
+<br>telegram: @Takaiva
+
+___
+
+Stack:
+<br>[JS](https://img.shields.io/badge/-JS-FFFF00?style=for-the-badge)
