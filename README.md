@@ -15,4 +15,4 @@ Email: sdobnikove@mail.ru
 ___
 
 Stack:
-<br>[JS](https://img.shields.io/badge/-JS-FFFF00?style=for-the-badge)
+<br>![JS](https://img.shields.io/badge/-JS-FFFF00?style=for-the-badge)
