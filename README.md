@@ -9,7 +9,7 @@ An English tutor in the daylight, a greatly enthusiastic front-end developer at 
 - ⚡ Fun fact: Shared tea session is the best way to get acquainted with me.
 
 📫 How to reach me:
-<br>Email:<br>sdobnikove@mail.ru
+<br>Email:sdobnikove@mail.ru
 <br>telegram: @Takaiva
 
 ___
