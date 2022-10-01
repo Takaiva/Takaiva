@@ -15,4 +15,4 @@ Email: sdobnikove@mail.ru
 ___
 
 Stack:
-<br>![JS](https://img.shields.io/badge/-JS-FFFF00?style=for-the-badge)
+<br>![JS](https://img.shields.io/badge/-JS-FFFF00?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-FF4500?style=for-the-badge)
