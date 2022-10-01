@@ -5,6 +5,7 @@ An English tutor in the daylight, a greatly enthusiastic front-end developer at 
 
 - 🔭 Open to work, remote or Moscow.
 - 👨‍💻 You can check my projects [here](https://github.com/Takaiva?tab=repositories).
+- :page_facing_up: You can check CV [here](https://cv.hexlet.io/resumes/1474).
 - 🌱 Currently learning TypeScript.
 - ⚡ Fun fact: Shared tea session is the best way to get acquainted with me.
 
