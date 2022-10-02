@@ -21,6 +21,6 @@ ___
 
 <h3 align="left">Stats:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takaiva&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/Takaiva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takaiva&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takaiva&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/Takaiva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takaiva&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/anuraghazra/github-readme-stats)
