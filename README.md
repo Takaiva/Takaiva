@@ -4,7 +4,7 @@
 An English tutor in the daylight, a greatly enthusiastic front-end developer at night.
 
 - 🔭 Open to work, remote or Moscow.
-- :page_facing_up: Check my CV [here](https://cv.hexlet.io/resumes/1474).
+- :page_facing_up: Check my CV [here](https://cv.hexlet.io/resumes/1474/pdfs/base.pdf).
 - 👨‍💻 Check my projects [here](https://github.com/Takaiva?tab=repositories).
 - :green_book: Check my contributions [here](https://github.com/pulls?q=is%3Apr+author%3ATakaiva+archived%3Afalse+is%3Aclosed)
 - 🌱 Currently learning TypeScript.
