@@ -16,9 +16,13 @@ An English tutor in the daylight, a greatly enthusiastic front-end developer at 
 
 ___
 
-<h3 align="left">Stack:</h3>
+<h3 align="left">Main Stack:</h3>
 
-<br>![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![NEXT](https://img.shields.io/badge/-NEXT.JS-48494b?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-FF4500?style=for-the-badge)
+<br>![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-FF4500?style=for-the-badge)
+
+<h3 align="left">Currently mastering:</h3>
+
+![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge) ![VUE](https://img.shields.io/badge/-Vue-06da8c?style=for-the-badge)  ![NEXT](https://img.shields.io/badge/-NEXT.JS-48494b?style=for-the-badge)
 
 <h3 align="left">Stats:</h3>
 
