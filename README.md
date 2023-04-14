@@ -6,7 +6,7 @@ An English tutor in the daylight, a greatly enthusiastic front-end developer at 
 - 🔭 Open to work, remote or Moscow.
 - :green_book: My contributions [here](https://github.com/pulls?q=is%3Apr+author%3ATakaiva+archived%3Afalse+is%3Aclosed)
 - 🌱 Currently learning Typescript and Remix.run.
-- ⚡ Fact: Shared tea session is the best way to get acquainted with me.
+- 🫖 Shared tea session is the best way to get acquainted with me.
 
 📫 How to reach me:
 <br>Email: chenderlie@gmail.com
