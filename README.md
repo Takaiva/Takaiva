@@ -11,7 +11,7 @@ An English tutor in the daylight, a greatly enthusiastic front-end developer at 
 - ⚡ Fun fact: Shared tea session is the best way to get acquainted with me.
 
 📫 How to reach me:
-<br>Email: sdobnikove@mail.ru
+<br>Email: chenderlie@gmail.com
 <br>telegram: @Takaiva
 
 ___
