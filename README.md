@@ -18,7 +18,7 @@ ___
 
 <h3 align="left">Experience:</h3>
 
-![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![VUE3](https://img.shields.io/badge/-Vue-06da8c?style=for-the-badge) ![NEXT](https://img.shields.io/badge/-NEXT.JS-48494b?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-9933ff?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-3399ff?style=for-the-badge)
+![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![VUE3](https://img.shields.io/badge/-Vue3-06da8c?style=for-the-badge) ![NEXT](https://img.shields.io/badge/-NEXT.JS-48494b?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-9933ff?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-3399ff?style=for-the-badge)
 
 <h3 align="left">Stats:</h3>
 
