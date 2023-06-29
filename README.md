@@ -14,7 +14,7 @@ ___
 
 <h3 align="left">Main stack now:</h3>
 
-<br>[TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Remix.run](https://img.shields.io/badge/-Remix.run-383838?style=for-the-badge) ![Tailwind](https://img.shields.io/badge/-Tailwind-80bfff?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge)
+<br>[Typescript](https://img.shields.io/badge/-Typescript-0689fd?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Remix.run](https://img.shields.io/badge/-Remix.run-383838?style=for-the-badge) ![Tailwind](https://img.shields.io/badge/-Tailwind-80bfff?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge)
 
 <h3 align="left">Experience:</h3>
 
