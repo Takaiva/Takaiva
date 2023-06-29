@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-An English tutor in the daylight, a greatly enthusiastic front-end developer at night.
+Tea, chocolate, code.
 
 - 🔭 Open to work, remote or Moscow.
-- :green_book: My contributions [here](https://github.com/pulls?q=is%3Apr+author%3ATakaiva+archived%3Afalse+is%3Aclosed)
-- 🌱 Currently learning Typescript and Remix.run.
-- 🫖 Shared tea session is the best way to get acquainted with me.
+- :green_book: [Contributions](https://github.com/pulls?q=is%3Apr+author%3ATakaiva+archived%3Afalse+is%3Aclosed)
 
 📫 How to reach me:
 <br>Email: chenderlie@gmail.com
@@ -14,13 +12,13 @@ An English tutor in the daylight, a greatly enthusiastic front-end developer at 
 
 ___
 
-<h3 align="left">Main Stack:</h3>
+<h3 align="left">Main stack now:</h3>
 
-<br>![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-FF4500?style=for-the-badge)
+<br>[TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Remix.run](https://img.shields.io/badge/-Remix.run-383838?style=for-the-badge) ![Tailwind](https://img.shields.io/badge/-Tailwind-80bfff?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge)
 
-<h3 align="left">Currently mastering:</h3>
+<h3 align="left">Experience:</h3>
 
-![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge) ![VUE](https://img.shields.io/badge/-Vue-06da8c?style=for-the-badge)  ![NEXT](https://img.shields.io/badge/-NEXT.JS-48494b?style=for-the-badge)
+![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![VUE3](https://img.shields.io/badge/-Vue-06da8c?style=for-the-badge) ![NEXT](https://img.shields.io/badge/-NEXT.JS-48494b?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-9933ff?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-3399ff?style=for-the-badge)
 
 <h3 align="left">Stats:</h3>
 
