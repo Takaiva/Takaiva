@@ -1,7 +1,5 @@
-### Hi there 👋
+### TEA, CHOCOLATE, CODE.
 
-
-Tea, chocolate, code.
 
 - 🔭 Open to work, remote or Moscow.
 - :green_book: [Contributions](https://github.com/pulls?q=is%3Apr+author%3ATakaiva+archived%3Afalse+is%3Aclosed)
